@@ -1,0 +1,15 @@
+html {
+  font-size: 16px;
+}
+
+.intro {
+  font-size: 1.125rem;
+  color: #ffc700;
+  width: 31.25rem;
+  max-width: 56.25rem;
+  padding: 3rem;
+  background-color: #18354a;
+  border: 1px solid lightgray;
+  margin: 2rem auto;
+  box-sizing: border-box;
+}
